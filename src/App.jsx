@@ -1510,13 +1510,13 @@ export default function App() {
                 <CardContent>
                   <div className="space-y-2 text-sm">
                     <p>
-                      <strong>Name:</strong> John Doe
+                      <strong>Name:</strong> TAMANNA
                     </p>
                     <p>
-                      <strong>Address:</strong> 123 Green Street, Eco City
+                      <strong>Address:</strong> PAURI
                     </p>
                     <p>
-                      <strong>Phone:</strong> +91 98765 43210
+                      <strong>Phone:</strong> +91 98765 XXXXX
                     </p>
                     <Button variant="outline" className="w-full mt-3">
                       Edit Profile
@@ -1726,7 +1726,7 @@ export default function App() {
                     <div className="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-3">
                       <UserCheck className="h-8 w-8 text-orange-600" />
                     </div>
-                    <h4 className="text-orange-800">Ram Kumar</h4>
+                    <h4 className="text-orange-800"> GAURAV </h4>
                     <p className="text-sm text-gray-600">ID: RG001245</p>
                     <Badge className="bg-green-100 text-green-800 mt-2">
                       Verified
@@ -1734,7 +1734,7 @@ export default function App() {
                   </div>
                   <div className="text-sm space-y-1">
                     <p>
-                      <strong>Phone:</strong> +91 98765 43210
+                      <strong>Phone:</strong> +91 98765 XXXXX
                     </p>
                     <p>
                       <strong>Area:</strong> Central District
