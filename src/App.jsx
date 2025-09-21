@@ -201,40 +201,13 @@ export default function App() {
               </div>
             </div>
 
-   <div
-  style={{
-    position: 'relative',
-    overflow: 'hidden',
-    borderRadius: '9999px', // rounded-full
-    backgroundColor: 'white',
-    display: 'inline-block',
-    padding: '1rem 2rem',
-  }}
->
-  {/* Blurred background layer */}
-  <div
-    style={{
-      position: 'absolute',
-      top: 0, left: 0, right: 0, bottom: 0,
-      backgroundColor: 'white', // or use backgroundImage here
-      filter: 'blur(8px)',
-      transform: 'scale(1.1)', // to avoid edges showing
-      zIndex: 0,
-    }}
-  />
-
-  {/* Text content */}
-  <h1
-    className="text-5xl text-green-950 mb-6 max-w-4xl mx-auto font-bold font-style-poppins"
-    style={{ position: 'relative', zIndex: 1 }}
-  >
-    Connecting Communities for Sustainable Waste Management
-  </h1>
-</div>
-
-
-
-           
+            <div className="mb-6 bg-white/50 rounded-full inline-block"
+            >
+              <h1 className="text-5xl  text-green-950 mb-6 max-w-4xl mx-auto font-bold font-style-poppins"
+              >
+                Connecting Communities for Sustainable Waste Management
+              </h1>
+            </div>
             <p className="text-xl text-white mb-12 max-w-3xl mx-auto">
               Eco Link brings together citizens, ragmen, recycling companies,
               and government oversight to create a transparent, sustainable
