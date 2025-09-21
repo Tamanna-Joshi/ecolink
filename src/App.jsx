@@ -2190,25 +2190,25 @@ export default function App() {
                   {[
                     {
                       type: "Ragman Registration",
-                      name: "Suresh Kumar",
+                      name: "AKSHIT KAKTWAN",
                       id: "RG001456",
                       priority: "High",
                     },
                     {
                       type: "Company Partnership",
-                      name: "GreenTech Recycling",
+                      name: " AMRITA RECYLES ",
                       id: "CP000123",
                       priority: "Medium",
                     },
                     {
                       type: "Ragman Registration",
-                      name: "Meera Devi",
+                      name: "PRAJNA UNIYAL",
                       id: "RG001457",
                       priority: "Medium",
                     },
                     {
                       type: "Benefits Claim",
-                      name: "Ram Singh",
+                      name: "SAUMYA ",
                       id: "BC000234",
                       priority: "Low",
                     },
